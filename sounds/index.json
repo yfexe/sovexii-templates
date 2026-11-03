@@ -1,0 +1,321 @@
+{
+ "categories": [
+  {
+   "id": "chill",
+   "name": "Chill",
+   "kind": "music"
+  },
+  {
+   "id": "emotional",
+   "name": "Emotional",
+   "kind": "music"
+  },
+  {
+   "id": "cinematic",
+   "name": "Cinematic",
+   "kind": "music"
+  },
+  {
+   "id": "electronic",
+   "name": "Electronic",
+   "kind": "music"
+  },
+  {
+   "id": "fun",
+   "name": "Fun",
+   "kind": "music"
+  },
+  {
+   "id": "transitions",
+   "name": "Transitions",
+   "kind": "sfx"
+  },
+  {
+   "id": "ui",
+   "name": "Clicks & alerts",
+   "kind": "sfx"
+  },
+  {
+   "id": "impacts",
+   "name": "Hits",
+   "kind": "sfx"
+  },
+  {
+   "id": "funny",
+   "name": "Funny",
+   "kind": "sfx"
+  }
+ ],
+ "sounds": [
+  {
+   "id": "bossa-lounge",
+   "name": "Bossa lounge",
+   "kind": "music",
+   "category": "chill",
+   "path": "sounds/music/bossa-lounge.m4a",
+   "durationMs": 59700,
+   "version": 1,
+   "author": "joth",
+   "license": "CC0",
+   "source": "https://opengameart.org/content/bossa-nova"
+  },
+  {
+   "id": "next-to-you",
+   "name": "Next to you",
+   "kind": "music",
+   "category": "emotional",
+   "path": "sounds/music/next-to-you.m4a",
+   "durationMs": 29300,
+   "version": 1,
+   "author": "joth",
+   "license": "CC0",
+   "source": "https://opengameart.org/content/next-to-you"
+  },
+  {
+   "id": "snowfall-piano",
+   "name": "Snowfall piano",
+   "kind": "music",
+   "category": "emotional",
+   "path": "sounds/music/snowfall-piano.m4a",
+   "durationMs": 60800,
+   "version": 1,
+   "author": "kistol",
+   "license": "CC0",
+   "source": "https://opengameart.org/content/snowfall"
+  },
+  {
+   "id": "field-of-dreams",
+   "name": "Field of dreams",
+   "kind": "music",
+   "category": "cinematic",
+   "path": "sounds/music/field-of-dreams.m4a",
+   "durationMs": 84700,
+   "version": 1,
+   "author": "pauliuw",
+   "license": "CC0",
+   "source": "https://opengameart.org/content/the-field-of-dreams"
+  },
+  {
+   "id": "cyberpunk-sonata",
+   "name": "Cyberpunk sonata",
+   "kind": "music",
+   "category": "electronic",
+   "path": "sounds/music/cyberpunk-sonata.m4a",
+   "durationMs": 116800,
+   "version": 1,
+   "author": "joth",
+   "license": "CC0",
+   "source": "https://opengameart.org/content/cyberpunk-moonlight-sonata"
+  },
+  {
+   "id": "arcade-fun",
+   "name": "Arcade fun",
+   "kind": "music",
+   "category": "fun",
+   "path": "sounds/music/arcade-fun.m4a",
+   "durationMs": 47800,
+   "version": 1,
+   "author": "mrpoly",
+   "license": "CC0",
+   "source": "https://opengameart.org/content/menu-music"
+  },
+  {
+   "id": "sfx-whoosh",
+   "name": "Whoosh",
+   "kind": "sfx",
+   "category": "transitions",
+   "path": "sounds/sfx/whoosh.m4a",
+   "durationMs": 900,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-swish",
+   "name": "Quick swish",
+   "kind": "sfx",
+   "category": "transitions",
+   "path": "sounds/sfx/swish.m4a",
+   "durationMs": 450,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-riser",
+   "name": "Riser",
+   "kind": "sfx",
+   "category": "transitions",
+   "path": "sounds/sfx/riser.m4a",
+   "durationMs": 2500,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-pop",
+   "name": "Pop",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/pop.m4a",
+   "durationMs": 180,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-click",
+   "name": "Click",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/click.m4a",
+   "durationMs": 60,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-ding",
+   "name": "Ding",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/ding.m4a",
+   "durationMs": 1600,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-chime",
+   "name": "Chime",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/chime.m4a",
+   "durationMs": 1200,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-success",
+   "name": "Success",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/success.m4a",
+   "durationMs": 900,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-error",
+   "name": "Wrong buzz",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/error.m4a",
+   "durationMs": 500,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-shutter",
+   "name": "Camera shutter",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/shutter.m4a",
+   "durationMs": 349,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-typing",
+   "name": "Typing",
+   "kind": "sfx",
+   "category": "ui",
+   "path": "sounds/sfx/typing.m4a",
+   "durationMs": 2000,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-impact",
+   "name": "Cinematic boom",
+   "kind": "sfx",
+   "category": "impacts",
+   "path": "sounds/sfx/impact.m4a",
+   "durationMs": 1500,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-kick",
+   "name": "Punch hit",
+   "kind": "sfx",
+   "category": "impacts",
+   "path": "sounds/sfx/kick.m4a",
+   "durationMs": 400,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-heartbeat",
+   "name": "Heartbeat",
+   "kind": "sfx",
+   "category": "impacts",
+   "path": "sounds/sfx/heartbeat.m4a",
+   "durationMs": 1600,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-sparkle",
+   "name": "Magic sparkle",
+   "kind": "sfx",
+   "category": "funny",
+   "path": "sounds/sfx/sparkle.m4a",
+   "durationMs": 1800,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-bubble",
+   "name": "Bubble",
+   "kind": "sfx",
+   "category": "funny",
+   "path": "sounds/sfx/bubble.m4a",
+   "durationMs": 250,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-boing",
+   "name": "Boing",
+   "kind": "sfx",
+   "category": "funny",
+   "path": "sounds/sfx/boing.m4a",
+   "durationMs": 699,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  },
+  {
+   "id": "sfx-slide-whistle",
+   "name": "Slide whistle up",
+   "kind": "sfx",
+   "category": "funny",
+   "path": "sounds/sfx/slide-whistle.m4a",
+   "durationMs": 1000,
+   "version": 1,
+   "author": "Sovexii Studio",
+   "license": "CC0"
+  }
+ ]
+}
